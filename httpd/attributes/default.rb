@@ -1,0 +1,1 @@
+default['package']['name'] = 'httpd'
